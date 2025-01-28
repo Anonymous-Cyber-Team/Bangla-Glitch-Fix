@@ -19,7 +19,7 @@ Handles punctuation correctly
 
 ### **Run the script:**
 
-### **python shamim.py**
+**python shamim.py**
 
 Enter Bengali text when prompted.
 
