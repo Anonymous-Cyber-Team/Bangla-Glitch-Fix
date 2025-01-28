@@ -18,7 +18,7 @@ Handles punctuation correctly
 
 ### Run the script:
 
-python shamim.py
+### python shamim.py
 
 Enter Bengali text when prompted.
 
@@ -29,6 +29,7 @@ Type exit to stop the program.
 ## ⚡ Example
 
 👉 আপনার লেখা: আমার সোনার বাংলা
+
 ✅ কনভার্ট করা লেখা:  আম◌ার স◌োন◌ার ব◌াংল◌া
 
 ## 🛠 Future Improvements
