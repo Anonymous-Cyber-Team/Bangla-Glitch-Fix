@@ -1,4 +1,4 @@
-# **Bangla Text Converter** [Facebook](https://www.facebook.com/AnonymousCyberTeamOfficial)
+# **Bangla Text Converter** 
 
 
 📌 Introduction
@@ -41,3 +41,4 @@ Improve accuracy with complex text structures
 
 Enjoy smooth and glitch-free Bengali text rendering! 🎯
 
+# **Me On [Facebook]** (https://www.facebook.com/AnonymousCyberTeamOfficial)
