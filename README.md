@@ -17,7 +17,7 @@ Handles punctuation correctly
 
 ## 🚀 How to Use
 
-**Run the script:**
+### **Run the script:**
 
 ### **python shamim.py**
 
